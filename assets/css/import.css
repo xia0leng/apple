@@ -55,8 +55,21 @@ data-styled.g97[id="StyledContainer__StyledLinkContainer-sc-1kae6sc-0"]{content:
 .rsIfq{position:relative;}/*!sc*/
 data-styled.g110[id="Button__StyledText-sc-uh5tyw-0"]{content:"rsIfq,"}/*!sc*/
 .yQkjN{width:100%;height:100%;position:relative;}/*!sc*/
-.yQkjN:before{content:'';position:fixed;width:100%;height:100%;top:0;background-image:url(https://d1fdloi71mui9q.cloudfront.net/YGq0nzAMRDSkuzmeS537_2P9PCVCdut65PKh7);background-repeat:no-repeat;background-size:cover;background-position:center;opacity:0.25;-webkit-filter:blur(50px);filter:blur(50px);}/*!sc*/
-.yQkjN:after{content:'';position:fixed;width:100%;top:0;height:100%;background-image:url(https://assets.production.linktr.ee/profiles/_next/static/images/img-noise-256x256-fb8404ad3939a43b615f4819230bbb18.png);background-repeat:repeat;opacity:0.05;mix-blend-mode:overlay;}/*!sc*/
+.yQkjN:before{content:'';position:fixed;width:100%;height:100%;top:0;
+    
+    
+    
+    /* background blurred avatar */
+    background-image:url(/assets/img/common/background.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;opacity:0.25;-webkit-filter:blur(50px);filter:blur(50px);}/*!sc*/
+.yQkjN:after{content:'';position:fixed;width:100%;top:0;height:100%;
+    
+    
+    
+    /* background noise*/
+    background-image:url(/assets/img/common/background-noise.png);background-repeat:repeat;opacity:0.05;mix-blend-mode:overlay;}/*!sc*/
+
+
+
 data-styled.g149[id="noise__ProfilePictureBg-sc-8yr2g1-0"]{content:"yQkjN,"}/*!sc*/
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,main,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}/*!sc*/
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block;}/*!sc*/
