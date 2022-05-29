@@ -3214,103 +3214,103 @@ body {
     height: 100vh;
     background-attachment: fixed; }
     .visual .visual_wrap_mv .mv_img.mv1 {
-      background: url("/assets/img/top/mv.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv1 {
-          background: url("/assets/img/top/mv.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv1 {
-          background: url("/assets/img/top/mv_sp1.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp1.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv2 {
-      background: url("/assets/img/top/mv2.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv2.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv2 {
-          background: url("/assets/img/top/mv2.jpg") no-repeat center 23% !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv2.jpg") no-repeat center 23% !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv2 {
-          background: url("/assets/img/top/mv_sp2.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp2.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv3 {
-      background: url("/assets/img/top/mv3.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv3.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv3 {
-          background: url("/assets/img/top/mv3.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv3.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv3 {
-          background: url("/assets/img/top/mv_sp3.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp3.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv4 {
-      background: url("/assets/img/top/mv4.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv4.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv4 {
-          background: url("/assets/img/top/mv4.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv4.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv4 {
-          background: url("/assets/img/top/mv_sp4.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp4.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv5 {
-      background: url("/assets/img/top/mv5.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv5.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv5 {
-          background: url("/assets/img/top/mv5.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv5.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv5 {
-          background: url("/assets/img/top/mv_sp5.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp5.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv6 {
-      background: url("/assets/img/top/mv6.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv6.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv6 {
-          background: url("/assets/img/top/mv6.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv6.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv6 {
-          background: url("/assets/img/top/mv_sp6.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp6.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv7 {
-      background: url("/assets/img/top/mv7_2.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv7_2.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv7 {
-          background: url("/assets/img/top/mv7_2.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv7_2.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv7 {
-          background: url("/assets/img/top/mv_sp7_2.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp7_2.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv8 {
-      background: url("/assets/img/top/mv8.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv8.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv8 {
-          background: url("/assets/img/top/mv8.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv8.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv8 {
-          background: url("/assets/img/top/mv_sp8.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp8.jpg") no-repeat center top;
           background-size: cover; } }
     .visual .visual_wrap_mv .mv_img.mv9 {
-      background: url("/assets/img/top/mv9.jpg") no-repeat center top;
+      background: url("https://xln.moe/apple/assets/img/top/mv9.jpg") no-repeat center top;
       background-size: cover; }
       @media (orientation: landscape) {
         .visual .visual_wrap_mv .mv_img.mv9 {
-          background: url("/assets/img/top/mv9.jpg") no-repeat center top !important;
+          background: url("https://xln.moe/apple/assets/img/top/mv9.jpg") no-repeat center top !important;
           background-size: cover !important; } }
       @media only screen and (max-width: 768px) {
         .visual .visual_wrap_mv .mv_img.mv9 {
-          background: url("/assets/img/top/mv_sp9.jpg") no-repeat center top;
+          background: url("https://xln.moe/apple/assets/img/top/mv_sp9.jpg") no-repeat center top;
           background-size: cover; } }
 
 
@@ -3444,13 +3444,13 @@ data-styled.g110[id="Button__StyledText-sc-uh5tyw-0"]{content:"rsIfq,"}/*!sc*/
     
     
     /* background blurred avatar */
-    background-image1:url(/assets/img/common/background.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;opacity:1;-webkit-filter:blur1(50px);filter:blur1(50px);}/*!sc*/
+    background-image1:url(https://xln.moe/apple/assets/img/common/background.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;opacity:1;-webkit-filter:blur1(50px);filter:blur1(50px);}/*!sc*/
 .yQkjN:after{content:'';position:fixed;width:100%;top:0;height:100%;
     
     
     
     /* background noise*/
-    background-image:url(/assets/img/common/background-noise.png);background-repeat:repeat;opacity:0.05;mix-blend-mode:overlay;}/*!sc*/
+    background-image:url(https://xln.moe/apple/assets/img/common/background-noise.png);background-repeat:repeat;opacity:0.05;mix-blend-mode:overlay;}/*!sc*/
 
 
 
